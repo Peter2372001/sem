@@ -6,5 +6,3 @@
 
 # Software Engineering Methods
 ![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/Peter2372001/sem/main.yml?branch=develop)
-
-a
